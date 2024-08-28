@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lysesto.github.io/sitemap.html.gz
+Sitemap: https://lysesto.github.io/app/sitemap.html.gz
+Sitemap: https://lysesto.github.io/assets/sitemap.html.gz
+Sitemap: https://lysesto.github.io/css/sitemap.html.gz
+Sitemap: https://lysesto.github.io/includes/sitemap.html.gz
+Sitemap: https://lysesto.github.io/item/sitemap.html.gz
+Sitemap: https://lysesto.github.io/src/sitemap.html.gz
